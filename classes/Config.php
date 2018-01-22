@@ -14,7 +14,7 @@ class Config {
             return $config;
         }
 
-        return false;s
+        return false;
     }
 }
 
